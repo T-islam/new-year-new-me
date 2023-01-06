@@ -1,6 +1,11 @@
 # new-year-new-me
 
+=> adding extra blog section in this website
 
-git remote add origin https://github.com/T-islam/new-year-new-me.git
-git branch -M master
-git push -u origin master
+## Utilities
+
+- google font
+- font awsome icons
+- list image
+
+## ` Live  web site link` - https://t-islam.github.io/new-year-new-me/
